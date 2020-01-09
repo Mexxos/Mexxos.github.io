@@ -1,3 +1,11 @@
+````Code of first site
+1.read
+2.write
+3.repeat
+
+[GitHub](https://github.com)
+````
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mexxos/Mexxos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
