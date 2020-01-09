@@ -7,6 +7,10 @@
 [GitHub](https://github.com)
 ````
 
+theme: "GitHub Pages"-scheme
+title: Copy of page-scheme
+description: learning by doing
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mexxos/Mexxos.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
